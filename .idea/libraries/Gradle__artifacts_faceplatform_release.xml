@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:faceplatform-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faceplatform-release.aar/91045c8f491fa13d142cda56ef658bbd/jars/libs/idl-license.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faceplatform-release.aar/91045c8f491fa13d142cda56ef658bbd/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faceplatform-release.aar/91045c8f491fa13d142cda56ef658bbd/jars/libs/facesdk.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/faceplatform-release.aar/91045c8f491fa13d142cda56ef658bbd/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
